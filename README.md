@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=80&text=&fontAlign=80&fontAlignY=40&color=#B897FF">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=80&text=&fontAlign=80&fontAlignY=40&color=#C792EA">
 
 <h1 align="center">Hi, I'm Marcelo Rossberg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -43,4 +43,4 @@
   <a href="https://www.linkedin.com/in/marcelorossberg/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=80&text=&fontAlign=80&fontAlignY=40&color=#B897FF">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=80&text=&fontAlign=80&fontAlignY=40&color=#C792EA">
